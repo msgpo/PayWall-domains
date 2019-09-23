@@ -1,2 +1,4 @@
-# PayWall-domains
-A short list with problematic paywall domains
+# PayWall Domains
+
+A short list with _problematic_ paywall domains.
+
