@@ -20,6 +20,7 @@
 0.0.0.0 economist.com
 0.0.0.0 ed.nl
 0.0.0.0 examiner.com.au
+0.0.0.0 firstthings.com
 0.0.0.0 fnlondon.com
 0.0.0.0 foreignpolicy.com
 0.0.0.0 ft.com
